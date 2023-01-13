@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A simple plug and play resource for players to know your server keys.
+A simple plug and play and standalone resource for players to know your server keys.
 My discord : https://discord.gg/wJmnKQHTWD
 
 ## Installation
